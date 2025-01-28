@@ -18,4 +18,4 @@ TASKS:
                 This code reads the pulse duration value inputted in **analytical_thermo_elastic_stress** and outputs the fourier coefficients back to 
 		**analytical_thermo_elastic_stress** to obtain the stress, temperature, and displacement field.
                 
-		Please see [Paper on arXiv](https://arxiv.org/abs/2412.04762) for further details.
+Please see [Paper on arXiv](https://arxiv.org/abs/2412.04762) for further details.
